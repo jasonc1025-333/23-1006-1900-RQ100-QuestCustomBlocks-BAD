@@ -1,6 +1,7 @@
+* 23-1006-1920 Coders use the 'Share Project Link': https://makecode.microbit.org/S05263-04207-27821-15144
 
 > Open this page at:
-> 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-Extensions_Quest
+> 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
 >
 > OLD: [https://eande-jasonc1025.github.io/test-23-1006-1820-rq100-questcustomblocks-wukong-oled/](https://eande-jasonc1025.github.io/test-23-1006-1820-rq100-questcustomblocks-wukong-oled/)
 
@@ -12,7 +13,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for
-* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-Extensions_Quest
+* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
 * 
 * OLD: **https://github.com/eande-jasonc1025/test-23-1006-1820-rq100-questcustomblocks-wukong-oled** and import
 
@@ -23,7 +24,7 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste
-* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-Extensions_Quest
+* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
 * 
 * OLD: **https://github.com/eande-jasonc1025/test-23-1006-1820-rq100-questcustomblocks-wukong-oled** and click import
 
