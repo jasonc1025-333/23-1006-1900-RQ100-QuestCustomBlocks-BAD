@@ -1,7 +1,7 @@
 Works for others to code with:
 * 'New Project':: 'Extensions': 'Enter Project URL...'
 * Saved as filename: 23-1006-2000-RQ100-QuestCustomBlocks_AsExtension: 
-* GOOD: LeftPopOutWindow shows 'README.md' where coders can access sensitive content
+* GOOD: LeftPopOutWindow NOT shows 'README.md' where coders can access sensitive content
 * https://makecode.microbit.org/S89617-44632-11326-85341
   
 Not work for others to code with:
