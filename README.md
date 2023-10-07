@@ -1,8 +1,15 @@
-* 23-1006-1920 'Edit this project', then 'Share Project Link' for others to obtain a private copy to code with:
+* 23-1006-1950 'New Project':: 'Extensions': 'Enter Project URL...'
+* 23-1006-2000-RQ100-QuestCustomBlocks_AsExtension: 
+* GOOD: No LeftPopOutWindow
+* 
+
+* 23-1006-1920 'Edit this project' ('Import': 'Import URL...'), then 'Share Project Link' for others to obtain a private copy to code with:
+* BAD: LeftPopOutWindow shows 'README.md' where coders can access sensitive content
 * https://makecode.microbit.org/S24583-92128-95330-26200
+  
 
 > Open this page at:
-> 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
+> 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestCustomBlocks
 >
 > OLD: [https://eande-jasonc1025.github.io/test-23-1006-1820-rq100-questcustomblocks-wukong-oled/](https://eande-jasonc1025.github.io/test-23-1006-1820-rq100-questcustomblocks-wukong-oled/)
 
@@ -14,7 +21,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for
-* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
+* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestCustomBlocks
 * 
 * OLD: **https://github.com/eande-jasonc1025/test-23-1006-1820-rq100-questcustomblocks-wukong-oled** and import
 
@@ -25,7 +32,7 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste
-* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
+* 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestCustomBlocks
 * 
 * OLD: **https://github.com/eande-jasonc1025/test-23-1006-1820-rq100-questcustomblocks-wukong-oled** and click import
 
