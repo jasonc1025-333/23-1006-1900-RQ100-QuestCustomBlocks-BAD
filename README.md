@@ -1,4 +1,5 @@
-* 23-1006-1920 Coders use the 'Share Project Link': https://makecode.microbit.org/S05263-04207-27821-15144
+* 23-1006-1920 'Edit this project', then 'Share Project Link' for others to obtain a private copy to code with:
+* https://makecode.microbit.org/S24583-92128-95330-26200
 
 > Open this page at:
 > 23-1006-1910 https://github.com/eande-jasonc1025/23-1006-1900-RQ100-QuestExtensions
