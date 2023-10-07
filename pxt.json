@@ -1,5 +1,5 @@
 {
-    "name": "23-1006-1900-RQ100-QuestExtensions",
+    "name": "23-1006-1900-RQ100-QuestCustomBlocks",
     "description": "",
     "dependencies": {
         "core": "*",
