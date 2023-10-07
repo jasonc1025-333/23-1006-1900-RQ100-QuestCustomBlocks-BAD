@@ -1,7 +1,9 @@
-* 23-1006-1950 'New Project':: 'Extensions': 'Enter Project URL...'
+* For Others to Code with:
+* 'New Project':: 'Extensions': 'Enter Project URL...'
 * 23-1006-2000-RQ100-QuestCustomBlocks_AsExtension: 
 * GOOD: No LeftPopOutWindow
-* 
+* https://makecode.microbit.org/S89617-44632-11326-85341
+  
 
 * 23-1006-1920 'Edit this project' ('Import': 'Import URL...'), then 'Share Project Link' for others to obtain a private copy to code with:
 * BAD: LeftPopOutWindow shows 'README.md' where coders can access sensitive content
